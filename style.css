@@ -25,7 +25,7 @@ img {
   /* font-size: 100%; */
 
   /* Colors */
-  --hue: 159;
+  --hue: 207;
   /* HSL color mode */
   --base-color: hsl(var(--hue) 36% 57%);
   --base-color-second: hsl(var(--hue) 65% 88%);
